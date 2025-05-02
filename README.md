@@ -38,7 +38,7 @@
 
 ### 🌍 Connect with Me  
 
-📧 **Email:** aftabalam.coder@gmail.com  
+📧 **Email:** aftabalam.connect@gmail.com  
 📂 [Portfolio](#) *(Coming Soon!)*  
 
 🚀 _Let's build something amazing together!_ ✨
