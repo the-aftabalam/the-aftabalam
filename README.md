@@ -30,17 +30,9 @@
 
 ---
 
-### 📊 GitHub Stats  
+📈 my github stats
 
-<!-- Total stats with commits, PRs, issues, private contributions -->
-![Aftab's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-aftabalam&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-<!-- Top languages by bytes -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-aftabalam&layout=compact&theme=radical)
-
-<!-- Streak stats (current and max streak) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-aftabalam&theme=radical&hide_border=true)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="the-aftabalam" />
 
 ---
 
